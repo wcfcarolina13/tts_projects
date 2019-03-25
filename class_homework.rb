@@ -115,3 +115,5 @@ def output(weight)
 end
 
 output(get_weight)
+
+# Test: git status
